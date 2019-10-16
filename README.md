@@ -3,7 +3,7 @@
 0) Download recent images from iCloud
  - set up a crone
 	
-1) Does the image contain receipt or not? ok
+1) Image recognition/receipt classifier - ok
 2) Localise fragments that contain text
  - normalize image
    - detect rotation
